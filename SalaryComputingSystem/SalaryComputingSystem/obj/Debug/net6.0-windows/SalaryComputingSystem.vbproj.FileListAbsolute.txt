@@ -1,0 +1,16 @@
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\bin\Debug\net6.0-windows\SalaryComputingSystem.exe
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\bin\Debug\net6.0-windows\SalaryComputingSystem.deps.json
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\bin\Debug\net6.0-windows\SalaryComputingSystem.runtimeconfig.json
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\bin\Debug\net6.0-windows\SalaryComputingSystem.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\bin\Debug\net6.0-windows\SalaryComputingSystem.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\obj\Debug\net6.0-windows\SalaryComputingSystem.Form1.resources
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\obj\Debug\net6.0-windows\SalaryComputingSystem.vbproj.GenerateResource.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\obj\Debug\net6.0-windows\SalaryComputingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\obj\Debug\net6.0-windows\SalaryComputingSystem.AssemblyInfoInputs.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\obj\Debug\net6.0-windows\SalaryComputingSystem.AssemblyInfo.vb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\obj\Debug\net6.0-windows\SalaryComputingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\obj\Debug\net6.0-windows\SalaryComputingSystem.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\obj\Debug\net6.0-windows\refint\SalaryComputingSystem.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\obj\Debug\net6.0-windows\SalaryComputingSystem.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\obj\Debug\net6.0-windows\SalaryComputingSystem.genruntimeconfig.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Salary Computing System)\SalaryComputingSystem\SalaryComputingSystem\obj\Debug\net6.0-windows\ref\SalaryComputingSystem.dll
